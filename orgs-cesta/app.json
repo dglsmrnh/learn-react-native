@@ -24,10 +24,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.dglsmrnh.orgscesta"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1a775b17-a857-4b2e-abc3-06f42dc2aeb7"
+      }
+    },
+    "owner": "dglsmrnh"
   }
 }
